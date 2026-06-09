@@ -6,7 +6,7 @@ A simple Library Management System built using Python. This project allows users
 
 Add new books to library
 View all books with status (available/issued)
-Issue books to users
+Issue books to users 
 Return issued books
 Simple menu-driven CLI system
 
